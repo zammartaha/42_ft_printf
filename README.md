@@ -48,5 +48,5 @@ cc -Wall -Wextra -Werror main.c  lftprintf.a -o my_program
 
 ## Resources
 ### References
-* **Man7.org - Printf** - Manual page for the standard printf. https://man7.org/linux/man-pages/man3/printf.3.html
-* **GeeksforGeeks - Variadic Functions** - Explanation of how to handle variable arguments in C. https://www.geeksforgeeks.org/c/variadic-functions-in-c/
+* **[Man7.org - Printf](https://man7.org/linux/man-pages/man3/printf.3.html)** - Manual page for the standard printf.
+* **[GeeksforGeeks - Variadic Functions](https://www.geeksforgeeks.org/c/variadic-functions-in-c/)** - Explanation of how to handle variable arguments in C.
